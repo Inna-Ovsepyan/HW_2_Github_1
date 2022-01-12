@@ -1,0 +1,11 @@
+
+writing test documentation (checklists, test cases, reports)
+SQL Basics
+Jira
+Devtools
+API
+Postman
+Charles
+Githab
+Android Studio
+
