@@ -1,0 +1,5 @@
+name Inna
+age 30
+pets 0
+desired salary 100000
+
