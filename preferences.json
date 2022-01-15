@@ -1,8 +1,8 @@
 {
-"favorite_movie"- "Snatch"
-"favorite_serial"- "Stranger_Things"
-"favorite_food" - "pizza"
-"favorite_season" - "summer"
-"the_contry_i_want_to_visit"- "Portugal"
+"favorite_movie":"Snatch",
+"favorite_serial": "Stranger_Things",
+"favorite_food" : "pizza",
+"favorite_season": "summer",
+"the_contry_i_want_to_visit": "Portugal"
 
 }
