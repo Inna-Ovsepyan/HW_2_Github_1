@@ -1,18 +1,22 @@
 {
-  "Bug_ID"
-"ID": "number" 55
-"Name": "Cart_-_unable_to_add_new_item_to_my_cart"
-"Reporter": "Ovsepyan_Inna"
-"Submit_Date": "12.01.2022"
+  "Bug_ID":{
+"ID": "number 55",
+"Name": "Cart_-_unable_to_add_new_item_to_my_cart",
+"Reporter": "Ovsepyan_Inna",
+"Submit_Date": "12.01.2022",
+},
 
-"Bug_overview"
-"Summary": "When_my_cart_contains_one_item", 
-"i_am_unable_to_add_a_second_item_via_the_ add_to_cart_button_on_a_product_page"
-"URL": "www.bugstore.com/product"
+
+
+"Bug_overview":{
+"Summary": "When_my_cart_contains_one_item,i_am_unable_to_add_a_second_item_via_the_ add_to_cart_button_on_a_product_page",
+"URL": "www.bugstore.com/product",
 "Screenshot": "www.bugstore.com/7788"
+},
 
-"Environment"
-"Operating_System": "Windows" 11
-"Browser": "Chrome" "97.0.4692.71"
-  
+
+"Environment":{
+"Operating_System": "Windows_11",
+"Browser": "Chrome_97.0.4692.71"
+}
 }
