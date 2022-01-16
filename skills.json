@@ -1,13 +1,20 @@
 {
-"writing_test_documentation" ("checklists","test_cases","reports")
-"SQL_basics"
-"Jira"
-"Devtools"
-"API"
-"Postman"
-"Charles"
-"Github"
-"Android_studio"
 
-
+"writing_test_documentation":"checklists,_test_cases,_reports",
+"SQL_basics":{
+},
+"Jira":{
+},
+"Devtools":{
+},
+"API":{
+},
+"Postman":{
+},
+"Charles":{
+},
+"Github":{
+},
+"Android_studio":{
+},
 }
