@@ -1,15 +1,17 @@
 <xml>
-<b>Bug_ID</b>
+<point>Bug_ID</point>
 <ID>number_55</ID>
 <Name>Cart_unable_to_add_new_item_to_my_cart</Name>
 <Reporter>Ovsepyan Inna</Reporter>
 <Submit_Date>12/01/2022</Submit_Date>
 
-<b>Bug overview<b>
+<point>Bug overview</point>
 <Summary>When_my_cart_contains_one_item_i_am_unable_to_add_a_second_item_via_the_add_to_cart_button_on_a_product_page</Summary>
 <URL>www.bugstore.com/product</URL>
 <Screenshot>www.bugstore.com/7788</Screenshot>
 
-<b>Environment<b>
+<point>Environment</point>
 <Operating_System>Windows_11</Operating_System>
 <Browser>Chrome_97.0.4692.71</Browser>
+
+</xml>
